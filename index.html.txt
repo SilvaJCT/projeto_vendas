@@ -5,6 +5,8 @@
 <head>
 	<meta charset="utf-8">
 	<title>Site de Vendas</title>
+
+ 	<link rel="stlesheet"href=bluestyle.css">
 </head>
 
 <body>
